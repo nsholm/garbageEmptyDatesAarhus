@@ -1,0 +1,10 @@
+{
+    "domain": "kredslobtomning",
+    "name": "Kredsløb Tømning",
+    "version": "0.0.1",
+    "codeowners": "Nicklas Holm, @nsholm",
+    "integration_type": "service",
+    "requirements": [
+        "selenium==4.13.0"
+    ]
+}
